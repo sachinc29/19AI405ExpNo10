@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Date: 27-10-2024
-### Name: TANESSHA KANNAN
-### Register Number: 212223040225
+### Date: 
+### Name: SACHIN C
+### Register Number: 212222230125
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
